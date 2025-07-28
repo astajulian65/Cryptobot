@@ -1,5 +1,5 @@
 # Build system (safe versions to avoid build_meta errors)
-setuptools==67.8.0
+setuptools
 wheel==0.40.0
 # Binance bot core packages
 python-binance==1.0.26
