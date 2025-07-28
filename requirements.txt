@@ -2,3 +2,4 @@ python-binance
 pandas
 pandas-ta
 requests
+setuptools
