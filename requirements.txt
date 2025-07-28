@@ -1,5 +1,6 @@
-python-binance
-pandas
-pandas-ta
-requests
-setuptools
+python-binance==1.0.26
+pandas==1.5.3
+pandas_ta==0.3.14b0
+numpy==1.26.1
+requests==2.32.3
+setuptools==75.8.0
