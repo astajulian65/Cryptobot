@@ -1,6 +1,10 @@
-setuptools==65.5.1
-numpy==1.24.4
+# Binance bot core packages
+python-binance==1.0.26
 pandas==1.5.3
-pandas-ta==0.3.14b0
-python-binance==1.0.29
-requests
+pandas_ta==0.3.14b0
+numpy==1.24.4
+requests==2.31.0
+
+# Build system (safe versions to avoid build_meta errors)
+setuptools==67.8.0
+wheel==0.40.0
