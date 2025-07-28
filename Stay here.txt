@@ -1,0 +1,5 @@
+pandas
+pandas_ta
+python-binance
+requests
+python-telegram-bot==13.15
